@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/alpha_white_menu"
+    tools:context=".NotifActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toolbar"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="@color/color_bg_primary" />
+
+
+    <TextView
+        android:textAlignment="center"
+        android:id="@+id/notice_board"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="@string/notice_board"
+        android:layout_below="@+id/toolbar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp"
+        android:layout_margin="10dp" />
+    <TextView
+        android:id="@+id/our_goal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/color_bg_primary"
+        android:text="Stay informed by out new fresh menu"
+        android:layout_below="@+id/notice_board"
+        android:layout_alignRight="@+id/notice_board"
+        android:layout_alignEnd="@+id/notice_board" />
+    <TextView
+        android:id="@+id/instruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="@string/instruction"
+        android:lineSpacingExtra="4dp"
+        android:layout_below="@+id/our_goal"
+        android:layout_marginTop="20dp"
+        android:layout_alignLeft="@id/notice_board"
+        android:layout_alignStart="@id/notice_board"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="20dp" />
+    <CheckBox
+        android:id="@+id/subscribe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/subscribe"
+        android:textColor="@color/color_bg_primary"
+        android:layout_below="@+id/instruction"
+        android:layout_alignLeft="@+id/instruction"
+        android:layout_alignStart="@+id/instruction"
+        android:checked="false" />
+    <android.support.design.widget.CoordinatorLayout
+        android:id="@+id/snackbarPosition"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/alpha_white_menu"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/instruction"
+        android:layout_alignEnd="@+id/instruction" />
+
+</RelativeLayout>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Selera Sedap</string>
+    <string name="copyright">©2016 Selera Sedap.</string>
+
+    <string name="title_warning_close">Exit</string>
+    <string name="info_lose_internet">No internet connection.Please check again!</string>
+
+    <string name="title_yes">Yes</string>
+    <string name="title_no">No</string>
+    <string name="title_ok">OK</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_info">Information</string>
+    <string name="title_add_more_items">Add more items</string>
+    <string name="title_call_now">Call Now</string>
+
+    <string name="title_confirm">Confirm</string>
+    <string name="title_warning">Warning</string>
+
+    <string name="title_about_us">About Us</string>
+    <string name="title_rate_us">Rate me</string>
+    <string name="title_facebook">Instagram</string>
+    <string name="title_website">Website</string>
+    <string name="title_twitter">Twitter</string>
+
+    <string name="info_empty">Please enter the keyword!</string>
+    <string name="info_close_app">Do you want to exit the application?</string>
+    <string name="info_server_error">We can not connect to server.Please try again!</string>
+    <string name="info_parse_error">We can not process data.Please try again!</string>
+
+    <string name="loading">Please wait</string>
+    <string name="title_no_info">No Information</string>
+    <string name="title_call_us_now">CALL US NOW</string>
+    <string name="title_search">Search Words</string>
+    <string name="title_result_found">No Result Found</string>
+    <string name="info_no_offer">No Offer</string>
+    <string name="hint_search">Enter words</string>
+    <string name="title_hotel_promotions">Hotel Promotions</string>
+    <string name="info_no_hotel_promotions">No Hotel Promotion</string>
+    <string name="info_my_order">My Order</string>
+    <string name="format_sub_total">Subtotal: %1$s</string>
+    <string name="format_levy">Tax: %1$s</string>
+    <string name="format_total">Total: %1$s</string>
+
+    <string name="title_all_restaurant">All Restaurants</string>
+    <string name="title_offer">Offers</string>
+    <string name="title_unknow">Unknown Restaurant</string>
+
+    <string name="format_info_add_wishlist">Add %1$s to wishlist</string>
+    <string name="format_info_remove_wishlist">Remove %1$s to wishlist</string>
+
+    <string name="info_no_restaurant">No Restaurant</string>
+    <string name="title_send">Send</string>
+    <string name="title_main_menu">Main Menu</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_select_cat">SELECT A CATEGORY</string>
+    <string name="title_back">BACK</string>
+    <string name="title_done">DONE</string>
+    <string name="title_filter">Filter</string>
+    <string name="info_filter">SELECT A FILTER</string>
+    <string name="info_no_cat">No Category</string>
+    <string name="info_tags">Tags</string>
+    <string name="info_item_contains">THIS ITEM CONTAINS</string>
+
+    <string name="title_contact">Contact</string>
+
+    <string-array name="list_share">
+        <item>Send Email</item>
+        <item>Website</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Rate me</item>
+    </string-array>
+
+    <string name="title_unknown">Unknown</string>
+    <string name="title_share">Share</string>
+    <string name="info_version_format">Version 1.0.0</string>
+
+    <string-array name="list_share_options">
+        <item>Twitter</item>
+        <item>Facebook</item>
+        <item>Email</item>
+        <item>SMS</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    s
+    <string name="title_activity_maps">Map</string>
+    <string name="home"><style align="center"><h1>Welcome to Selera Sedap!</h1></style> \n\nA great and healthy family restaurant for dinner, a spot of lunch, or a place to hang–out with your friends. We are renowned for our authentic cuisine and unparalleled service. Our lunch and dinner menus boast traditional and unique dishes prepared fresh daily by our seasoned chef with recipes of over 40 years. \n\nOur passion lies in healthy food and simplicity – great seasonal ingredients from local suppliers, cooked with care and NO MSG and presented with flair. \n\nWith a long history of recipe (since 1960) that has been passed on to the third generation and with our background in fine dining, our aim is to achieve balanced and appealing dishes, without pretentiousness and most importantly that is cost–efficient for everybody. \n\nWe cook all of our food with NO MSG!! We want to encourage people to live healthy. Good food doesn’t always mean unhealthy food. \n\nOur guarantee is that you have full stomach without the need to break your pocket. \n\nBook a party today and invite your friends and family out to celebrate birthdays, arisan, graduations, anniversaries and more with no extra charge for our facilities. \n\nPlease allow 15–20 minutes for all takeout orders, and we encourage reservations for parties of eight or more.</string>
+    <string name="about">Selera Sedap is the first Indoriental Restaurant in Cirebon that cooks all of its dishes with NO MSG. \n\nOur cuisine brings together many South East Asian flavors, including Indonesian, Chinese, Korean, Japanese, Vietnamese and Thai elements. \n\nThe secret recipes have been passed down to the third generation with over 40 years of history. \n\nWith over 50 unique dishes created for you by top ranked chefs, Selera Sedap offers a unique dining experience that will forever transform your perception of Indoriental cuisine. \n\nSelera Sedap features a simple yet modern décor, making it a perfect restaurant for any occasion. \n\nThe outstanding service the diners receive at Selera Sedap comes from the heart; everyone at Selera Sedap seeks to put the guest’s needs first, providing proactive service in which even the tiniest detail embodies Selera Sedap’s service philosophy and brand values. \n\nCome to experience a whole new taste in Indoriental cuisine at Selera Sedap!</string>
+    <string name="catering">Special event catering from our kitchen to your table. \n\n We Make Your Occasion A Special Occasion . . .</string>
+    <string name="catering2"> - Design your meal around a theme or special occasion. \n - Plan your menu with us. \n - Select one of our Menus or custom design your own special menu to fit your occasion and budget.</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+
+    <string name="notice_board">Subscribe To Our Notification</string>
+    <string name="our_goal">Stay health and enjoy life in fullness</string>
+    <string name="instruction">If you are hoping to stay Notified by our new fresh menu every day, every week, every month, everytime!! </string>
+    <string name="subscribe">Subscription status </string>
+    <string name="status">Welcome back. Your subscription is still valid</string>
+    <string name="registered">You can receive notification </string>
+    <string name="un_register">You cannot receive notification</string>
+
+</resources>

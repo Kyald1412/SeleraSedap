@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.2.1_6e7edc9bfb818eedc26bc356a4a5cbf7806c079f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.2.1_d42dc50cac6e3b1c4f824da00719c12b7cfed32d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.2.1_80ba2d3d0eb87286756ddbf4e59353cc5bb56f60.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.2.1_f25dc2e85fddf946ab1203f9206b094d0b9bb840.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.2.1_2428665ac42e60ed2212eb69cdd1874714797142.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.2.1_4b30b69353791a7216fcca0f3cd59c71c97cdacb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.2.1_9af3a30d08bbe93dfb04a2c7e66f96eb5ef180bb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.2.1_d3132873c0a1b46de0d6165474dfa46d5310d215.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_9be51651663a93dff68f8959b262679cd2b933f7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.2.1_92e43e1d84c8c3ce994858c1c4b99528a0ea6da1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.2.1_36211019c433b4eaea9c9a7fe08c7422cdd308a9.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.2.1_ca33f5f23c22b84be2cb715a6b5c64d2940a7862.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.2.1_8120c7b3eadf237cbf0defcbfdaedd5d0cfb5abe.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.2.1_80e9000390a947eae032888793127a2b5c0d44d1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.2.1_88f7fccf97d06e302126b6980bdb21c8adeb3ad3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.2.1_c7cac56515cabe6538dc6138aed26093abd82b89.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.2.1_19310468c37ee8814a9cd84f4de7ddc21ea8f856.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.2.1_05b29efe23f087d44537901873eca307936067e8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_1a21d195964dccb4bc93948b264ef04a66ffeb56.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_e2928a0833ab9f50b40f3300a1d68b6de6122460.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.2.1_ec97de9c70eafdcb683455d970183e12aa27a723.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.2.1_fe3cbe7163bf90403b18d584a6de76f575271c16.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.2.1_ca9f4178e41439637903c2e72d031cea8fd86325.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_5f9d7288610ddc1e7323501ef549da99821519f1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.2.1_36cffab46b3bce8a3de8b1c405218e55853f830e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.2.1_59bcfa614dd204c6a4d3eb42d851fd91b14192e3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.2.1_e6aa2123efeac0d69cf6d4b0c911b6ee88771fc1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.2.1_4f9321cfc898b9d456d17c7647a405f781fac16b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.2.1_5b254c1961bad729e9912c8339888631d3f7789e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.2.1_7ed355e7d509a0422e7432750e95311c24698b9c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-contextmanager-9.2.1_7ce75d2492ae4373c7913735fb886675d2e796df.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_201871b73dc849e3511e8a8534e669f8f1db7bb8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.2.1_e0f798e0de42fd9be48f693f8641d40096b5f73a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.2.1_905f6b1bec7ba54b145be188e09f49a3e2f92db4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.2.1_fa99e62330406ecef5ad139aed388345760b7128.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.2.1_d5db605e8336e9184d102a2b6c5b28fd6f1a891a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.2.1_ca0501e943c4b74770fcb8a993aba85fa14bea3a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_3d4a124f6a0835f70aa13bf39a7de06ea200121e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.2.1_c14f4dcf341da057e70981f1e3fb26f3a9a57bb8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.2.1_951a20337723d3078af116a706f8eb50c013d265.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.2.1_e1a39de90bee156d154888f67e8caa88a6bd682a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.2.1_fa58fa4ac50d4721ec59215b9751293cf0737fbd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.2.1_f731f0e6047288f3db2ecf1e40a4ea8bf989013f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.2.1_9c88efc2ac761cdc46a5f742134bc2f7a9dd9c3e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.2.1_4969f58aaaa6bb46fa7eee8008b2bef20dc27a89.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.2.1_26e8c4c0d30ab7dd4d2415e9c9313936a166eb26.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.2.1_4c1da8ab6d32104b433fb7683cc491a8346b5305.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kyald\Documents\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_c86c809741fa4332880893331f0ae73dd0869782.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.2.1_7611a236e57c9607789eeadc748837f542ead80b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_4cf4ca83ca762d57837dc0f446121e5710d11282.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.2.1_4c9f375f5006d9eaa48945b880c8155ce6a1a684.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_2d8be4a53316d8de80957057a4bd61eebab30f82.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\libs\activation.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\activation_b0a40d069f732e2a66dae0167107abc22c3774cc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\additionnal_23633ecb28aa629b67b246b53fd5cf64cc7e4dbd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\libs\ypylibs.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a88928d9cb83b9da8e05d7d6cd7eb2e838a70ec4">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\ypylibs_e779fd2e77b553c5bae69a238032b46868becfa9.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.2.1_ff2f6e98b7566f136c64fdea5b287fcdd28eab46.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.2.1_f67a9435a9131d146f4b2fe00e998cb0534caac0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.2.1_befdf7c2e94fda23b5dd8e1d9b279af7922dfc68.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\libs\mail.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\mail_a757bb17dc9f9940a5f9bb437d0ff351defe3102.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.2.1_93d4c263615bc33aad653bc0bcca537fc2440498.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="D:\AndroidStudio\New Backup\kyald-selera-sedap-f03e9e0b9e78\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.2.1_cd090b036fc00d5d159198a7938d894644c3a967.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "414453622360",
+    "firebase_url": "https://kyaldtestapp.firebaseio.com",
+    "project_id": "kyaldtestapp",
+    "storage_bucket": "kyaldtestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414453622360:android:dc9a731c7d810ed6",
+        "android_client_info": {
+          "package_name": "com.example.kyald.firebasetestnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414453622360-4od81v1poesbfvr1sdapm6otjaq2jiu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkAGUQWSgefgKLYJUzBkhtVrCT2wqdTvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414453622360:android:0848843127de92cb",
+        "android_client_info": {
+          "package_name": "com.oxyexpress.restaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414453622360-4od81v1poesbfvr1sdapm6otjaq2jiu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkAGUQWSgefgKLYJUzBkhtVrCT2wqdTvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

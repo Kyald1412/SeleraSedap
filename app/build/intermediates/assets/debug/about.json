@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "title": "Banana Chocolate",
+        "image": "images/about/e.jpg",
+        "description": "Sale off 50%"
+    },
+
+    {
+        "id": "2",
+        "title": "Banana Chocolate",
+        "image": "images/about/b.jpg",
+        "description": "Sale off 50%"
+    },
+
+    {
+        "id": "3",
+        "title": "Banana Chocolate",
+        "image": "images/about/c.jpg",
+        "description": "Sale off 50%"
+    },
+
+    {
+        "id": "4",
+        "title": "Banana Chocolate",
+        "image": "images/about/d.jpg",
+        "description": "Sale off 50%"
+    }
+]

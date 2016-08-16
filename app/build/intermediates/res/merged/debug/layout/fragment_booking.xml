@@ -1,0 +1,122 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_bg_primary" >
+
+    <EditText
+        android:ems="10"
+        android:hint="Enter gmail-id"
+        android:id="@+id/et_to"
+        android:text="hunginda@gmail.com"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:ems="10"
+        android:hint="Enter Subject"
+        android:text="Pesanan"
+        android:visibility="gone"
+        android:id="@+id/et_sub"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:ems="10"
+        android:hint="Name"
+        android:id="@+id/et_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:layout_below="@+id/textView5"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:typeface="normal" />
+
+    <EditText
+        android:ems="10"
+        android:hint="Phone"
+        android:id="@+id/et_text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:layout_below="@+id/et_text"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:typeface="normal" />
+
+    <EditText
+        android:hint="Event Date"
+        android:id="@+id/et_text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:focusableInTouchMode="false"
+        android:layout_below="@+id/et_text1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:typeface="normal" />
+
+    <EditText
+        android:ems="10"
+        android:hint="Total Customers"
+        android:id="@+id/et_text3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:layout_below="@+id/et_text2"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:typeface="normal" />
+
+    <EditText
+        android:ems="10"
+        android:hint="Booking's Details"
+        android:id="@+id/et_text4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:layout_below="@+id/et_text3"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
+        android:typeface="normal" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Book Now!"
+        android:background="@color/grey"
+        android:layout_below="@+id/et_text4"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textColor="@color/white"
+        android:enabled="false"
+        android:clickable="false"
+        android:typeface="normal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please send us your information"
+        android:id="@+id/textView5"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="54dp"
+        android:textColor="@color/white"
+        android:typeface="normal"
+        android:textSize="18dp"
+        android:layout_marginBottom="30dp" />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_notifications_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\drawable-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_info_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_info_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_notifications_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\drawable-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_info_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_sync_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\drawable-v21\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_sync_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\drawable-v21\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_notifications_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\drawable-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_sync_black_24dp.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\drawable-v21\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

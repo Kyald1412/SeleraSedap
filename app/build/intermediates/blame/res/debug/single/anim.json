@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\nothing.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\nothing.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\nothing.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\nothing.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\nothing.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\nothing.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\nothing.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    }
+]

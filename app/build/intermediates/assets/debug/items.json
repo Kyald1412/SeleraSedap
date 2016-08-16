@@ -1,0 +1,280 @@
+[{
+  "id": "1",
+  "name": "Nasi Ayam Kuluyuk",
+  "description": "Nasi Ayam Kuluyuk",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2016\/01\/Nasi-Ayam-Kuluyuk-e1452303468437-300x300.jpg",
+  "category": "16",
+  "tag": "Hot",
+  "featured": "1",
+  "price": "21K"
+}, {
+  "id": "2",
+  "name": "Sapo Terong Ayam",
+  "description": "Sapo Terong Ayam",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2016\/01\/Sapo-Terong-Ayam-e1452303497869-300x300.jpg",
+  "category": "16",
+  "tag": "Hot",
+  "featured": "1",
+  "price": "25K"
+}, {
+  "id": "3",
+  "name": "Nasi buncis Sapi",
+  "description": "Nasi buncis Sapi",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2016\/01\/Nasi-Buncis-Tumis-Sapi-e1452303481816-300x300.jpg",
+  "category": "15",
+  "tag": "Hot",
+  "featured": "1",
+  "price": "23K"
+}, {
+  "id": "4",
+  "name": "Nasi Udang Asam Manis",
+  "description": "Nasi Udang Asam Manis",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2016\/01\/Nasi-Udang-Asam-Manis-e1452303727609-300x300.jpg",
+  "category": "16",
+  "tag": "Hot",
+  "featured": "1",
+  "price": "23K"
+}, {
+  "id": "5",
+  "name": "Udang Goreng Tepung Telor Asin",
+  "description": "Udang Goreng Tepung Telor Asin",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/12\/Udang-Goreng-Tepung-Telor-Asin-e1450951536642-300x300.jpg",
+  "category": "29",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "30K"
+}, {
+  "id": "6",
+  "name": "Tumis Ayam Buncis",
+  "description": "Tumis Ayam Buncis",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/12\/Tumis-Ayam-Buncis-300x300.jpg",
+  "category": "16",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "23K"
+}, {
+  "id": "7",
+  "name": "Buncis Goreng Tepung",
+  "description": "Buncis Goreng Tepung",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/12\/Buncis-Goreng-Tepung-e1450951860263-300x300.jpg",
+  "category": "28",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "20K"
+}, {
+  "id": "8",
+  "name": "Buncis Cabe Garam",
+  "description": "Buncis Cabe Garam",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/12\/Buncis-Cabe-Garam-e1450951711436-300x300.jpg",
+  "category": "28",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "20K"
+}, {
+  "id": "9",
+  "name": "Sapi cah cabe ijo",
+  "description": "Sapi cah cabe ijo",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/508c4994-75b0-45d0-a250-7aa56e56c785-1024x848.jpg",
+  "category": "18",
+  "tag": "",
+  "featured": "1",
+  "price": "30K"
+}, {
+  "id": "10",
+  "name": "Nasi Goreng Tom Yum",
+  "description": "Nasi Goreng Tom Yum",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/12\/Nasi-Goreng-Tom-Yum-e1450951451919-300x300.jpg",
+  "category": "15",
+  "tag": "Hot",
+  "featured": "1",
+  "price": "23K"
+}, {
+  "id": "11",
+  "name": "Mongolian Beef",
+  "description": "Mongolian Beef",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/12\/Mongolian-Beef-e1450946384557-300x300.jpg",
+  "category": "18",
+  "tag": "",
+  "featured": "1",
+  "price": "30K"
+}, {
+  "id": "13",
+  "name": "Nasi Goreng Tom Yum",
+  "description": "Nasi Goreng Tom Yum",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/12\/Nasi-Goreng-Tom-Yum-e1450951451919-300x300.jpg",
+  "category": "15",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "23K"
+}, {
+  "id": "14",
+  "name": "Gurame Asam Manis",
+  "description": "Gurame Asam Manis",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/IMG-20151025-WA0007-1024x768.jpg",
+  "category": "22",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "55K"
+}, {
+  "id": "15",
+  "name": "Kwetiaw Goreng Spesial",
+  "description": "Kwetiaw Goreng Spesial",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/IMG-20151014-WA0000-1024x576.jpg",
+  "category": "24",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "20K"
+}, {
+  "id": "12",
+  "name": "Hot Plate Kangkung Cah Sapi",
+  "description": "Hot Plate Kangkung Cah Sapi",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/IMG-20151014-WA0050-169x300.jpg",
+  "category": "17",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "25K"
+}, {
+  "id": "16",
+  "name": "Mie Godog Istimewa",
+  "description": "Mie Godog Istimewa",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/Mie-Godog-Istimewa_edit-1024x576.jpg",
+  "category": "25",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "15K"
+}, {
+  "id": "17",
+  "name": "Mongolian Beef",
+  "description": "Mongolian Beef",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/12\/Mongolian-Beef-e1450946384557-300x300.jpg",
+  "category": "18",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "30K"
+}, {
+  "id": "18",
+  "name": "Nasi Ayam Goreng Mentega",
+  "description": "Nasi Ayam Goreng Mentega",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/IMG-20151014-WA0046-1024x576.jpg",
+  "category": "16",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "21K"
+}, {
+  "id": "19",
+  "name": "Nasi Ayam Kuluyuk",
+  "description": "Nasi Ayam Kuluyuk",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2016\/01\/Nasi-Ayam-Kuluyuk-e1452303468437-300x300.jpg",
+  "category": "15",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "21K"
+}, {
+  "id": "20",
+  "name": "Nasi Buncis Sapi",
+  "description": "Nasi Buncis Sapi",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2016\/01\/Nasi-Buncis-Tumis-Sapi-e1452303481816-300x300.jpg",
+  "category": "15",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "23K"
+}, {
+  "id": "21",
+  "name": "Nasi Goreng BT",
+  "description": "Nasi Goreng BT",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/NasGor-BT_edit-1024x576.jpg",
+  "category": "15",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "15K"
+}, {
+  "id": "22",
+  "name": "Nasi Goreng Tom Yum",
+  "description": "Nasi Goreng Tom Yum",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/12\/Nasi-Goreng-Tom-Yum-e1450951451919-300x300.jpg",
+  "category": "15",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "23K"
+}, {
+  "id": "23",
+  "name": "Nasi Udang Asam Manis",
+  "description": "Nasi Udang Asam Manis",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2016\/01\/Nasi-Udang-Asam-Manis-e1452303727609-300x300.jpg",
+  "category": "29",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "23K"
+}, {
+  "id": "24",
+  "name": "Paket Lele Serasi",
+  "description": "Paket Lele Serasi",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/Paket-Lele-Serasi_edit-1024x576.jpg",
+  "category": "27",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "15K"
+}, {
+  "id": "25",
+  "name": "Sapi Cah Brokoli",
+  "description": "Sapi Cah Brokoli",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/IMG-20151018-WA010-1024x576.jpg",
+  "category": "18",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "30K"
+}, {
+  "id": "26",
+  "name": "Sapi Cabe Ijo",
+  "description": "Sapi Cabe Ijo",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/IMG-20151018-WA011-1024x576.jpg",
+  "category": "18",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "30K"
+}, {
+  "id": "27",
+  "name": "Sapi Cah Cabe Ijo",
+  "description": "Sapi Cah Cabe Ijo",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/508c4994-75b0-45d0-a250-7aa56e56c785-1024x848.jpg",
+  "category": "18",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "30K"
+}, {
+  "id": "28",
+  "name": "Ayam Goreng Ceria",
+  "description": "Sapo Terong Ayam",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/Paket-Ayam-Ceria_edit-300x300.jpg",
+  "category": "16",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "25K"
+}, {
+  "id": "29",
+  "name": "Tauge Cah Ikan Asin",
+  "description": "Tauge Cah Ikan Asin",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/10\/IMG-20151014-WA0051-1024x576.jpg",
+  "category": "28",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "20K"
+}, {
+  "id": "30",
+  "name": "Tumis Ayam Buncis",
+  "description": "Tumis Ayam Buncis",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/12\/Tumis-Ayam-Buncis-300x300.jpg",
+  "category": "16",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "23K"
+}, {
+  "id": "31",
+  "name": "Udang Goreng Tepung Asin",
+  "description": "Udang Goreng Tepung Asin",
+  "image": "http:\/\/www.selerasedap.com\/wp-content\/uploads\/2015\/12\/Udang-Goreng-Tepung-Telor-Asin-e1450951536642-300x300.jpg",
+  "category": "29",
+  "tag": "Hot",
+  "featured": "0",
+  "price": "30K"
+}]

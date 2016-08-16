@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "1",
+    "image": "images/catering/selera1.jpg",
+    "description": "Sale off 50%"
+  },
+  {
+    "id": "2",
+    "title": "2",
+    "image": "images/catering/nomor2.jpg",
+    "description": "Sale off 90%.Check it now"
+  },
+  {
+    "id": "3",
+    "title": "3",
+    "image": "images/catering/selera.jpg",
+    "description": "Sale off213321 now"
+  },
+  {
+    "id": "4",
+    "title": "4",
+    "image": "images/catering/nomor4.jpg",
+    "description": "Sale oasdsdnow"
+  },
+  {
+    "id": "5",
+    "title": "5",
+    "image": "images/catering/sedap5.jpg",
+    "description": "Salesaddsaheck it now"
+  },
+  {
+    "id": "6",
+    "title": "6",
+    "image": "images/catering/selera6.jpg",
+    "description": "Sale off asd2"
+  },
+  {
+    "id": "7",
+    "title": "7",
+    "image": "images/catering/sedap7.jpg",
+    "description": "Salasdk it now"
+  }
+]

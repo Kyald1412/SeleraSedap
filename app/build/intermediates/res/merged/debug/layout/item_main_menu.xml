@@ -1,0 +1,383 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/layout_main_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:weightSum="3" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@color/color_bg_primary"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginTop="@dimen/menu_margin_top"
+                android:background="@color/alpha_white_menu" >
+
+                <View
+                    android:id="@+id/devider"
+                    android:layout_width="@dimen/small_margin"
+                    android:layout_height="match_parent"
+                    android:background="@color/color_accent" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="left|center_vertical"
+                    android:text="Selera Sedap Restaurant"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_category"
+                    android:id="@+id/tv_head"
+                    android:layout_alignParentTop="true"
+                    android:layout_toRightOf="@+id/imageView9"
+                    android:layout_toEndOf="@+id/imageView9"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginStart="5dp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imageView9"
+                    android:background="@mipmap/ic_launcher"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toRightOf="@+id/devider"
+                    android:layout_toEndOf="@+id/devider" />
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/btn_offers"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector"
+                android:visibility="visible">
+
+                <ImageView
+                    android:id="@+id/img_offer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_whatshot_white_24dp" />
+
+                <TextView
+                    android:id="@+id/tv_offers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="Hot Offer"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title"
+                    android:layout_alignBottom="@+id/img_offer"
+                    android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/btn_all_restaurant"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector" >
+
+                <ImageView
+                    android:id="@+id/img_all_res"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_all_res" />
+
+                <TextView
+                    android:id="@+id/tv_all_res"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="Menu"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title"
+                    android:layout_alignBottom="@+id/img_all_res"
+                    android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+
+
+
+
+
+
+            <RelativeLayout
+                android:id="@+id/btn_cat"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector" >
+
+                <ImageView
+                    android:id="@+id/img_offerss"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:src="@drawable/ic_room_service_white_24dp" />
+
+                <TextView
+                    android:id="@+id/tv_cat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="Catering &amp; Events"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+
+
+
+
+            <RelativeLayout
+                android:id="@+id/layout_call"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector"
+                android:visibility="visible">
+
+
+                <ImageView
+                    android:id="@+id/img_call"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_call_phone" />
+
+                <TextView
+                    android:id="@+id/tv_call_us_now"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="Delivery Order"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title"
+                    android:layout_alignBottom="@+id/img_call"
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+
+
+
+
+            <RelativeLayout
+                android:id="@+id/btn_book"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector"
+                android:visibility="visible">
+
+
+                <ImageView
+                    android:id="@+id/img_book"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_book_white_24dp" />
+
+                <TextView
+                    android:id="@+id/tv_book_us_now"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="Book Now"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title"
+                    android:layout_alignBottom="@+id/img_book"
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/btn_maps"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector"
+                android:visibility="gone">
+
+                <ImageView
+                    android:id="@+id/img_offers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@android:drawable/ic_dialog_map" />
+
+                <TextView
+                    android:id="@+id/tv_maps"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="Maps"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/btn_instagram"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector" >
+
+                <ImageView
+                    android:id="@+id/img_offersss"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_instagram"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+                <TextView
+                    android:id="@+id/tv_inst"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="Instagram"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+
+
+
+
+
+
+            <RelativeLayout
+                android:id="@+id/layout_info"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector"
+                android:visibility="gone">
+
+                <ImageView
+                    android:id="@+id/img_information"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_information" />
+
+                <TextView
+                    android:id="@+id/tv_information"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/margin"
+                    android:layout_toRightOf="@+id/img_information"
+                    android:singleLine="true"
+                    android:text="@string/title_about_us"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title" />
+
+            </RelativeLayout>
+
+
+
+            <TextView
+                android:id="@+id/tv_caption_cateory"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:gravity="left"
+                android:text="@string/title_select_cat"
+                android:textColor="@color/color_accent"
+                android:textSize="@dimen/text_size_content"
+                android:visibility="gone" />
+
+            <ListView
+                android:id="@+id/list_category"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </ListView>
+
+            <RelativeLayout
+                android:id="@+id/settings"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector" >
+
+                <ImageView
+                    android:id="@+id/imageView6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_setting_dark"
+                    android:layout_alignBottom="@+id/textView6"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="Settings"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/btn_about"
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector">
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_information"
+                    android:layout_alignBottom="@+id/textView9"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+                <TextView
+                    android:id="@+id/textView9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="About Us"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@drawable/shadow" />
+
+    </LinearLayout>
+
+</RelativeLayout>

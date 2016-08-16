@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.2.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Kyald\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\AndroidStudio\\New Backup\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.2.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.2.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Azure\\AndroidStudio\\kyald-selera-sedap-f03e9e0b9e78\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]
