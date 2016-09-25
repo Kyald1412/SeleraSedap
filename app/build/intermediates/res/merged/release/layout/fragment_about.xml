@@ -10,8 +10,21 @@
         android:layout_height="match_parent"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginBottom="296dp">
+        android:layout_marginBottom="296dp"
+        android:visibility="invisible">
     </android.support.v4.view.ViewPager>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView3"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/e"
+        android:layout_above="@+id/scrollView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
     <RelativeLayout
         android:layout_width="match_parent"

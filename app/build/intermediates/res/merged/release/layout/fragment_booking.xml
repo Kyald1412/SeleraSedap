@@ -8,7 +8,7 @@
         android:ems="10"
         android:hint="Enter gmail-id"
         android:id="@+id/et_to"
-        android:text="rasoerjanto@gmail.com"
+        android:text="hunginda@gmail.com"
         android:visibility="gone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

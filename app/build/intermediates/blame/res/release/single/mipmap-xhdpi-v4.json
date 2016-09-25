@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Kyald\\Downloads\\Compressed\\MyRestaurant\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },

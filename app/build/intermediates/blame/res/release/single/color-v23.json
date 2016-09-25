@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
         "merged": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_color_highlight_material.xml",
         "source": "D:\\A-1\\OxyCreative\\Selera Sedap Resource\\Project\\MyRestaurant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
     },

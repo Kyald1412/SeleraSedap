@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\release\\xml\\pref_data_sync.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\release\\xml\\pref_general.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\release\\xml\\pref_headers.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SeleraSedap\\app\\build\\intermediates\\res\\merged\\release\\xml\\pref_notification.xml",
+        "source": "D:\\AndroidStudio\\SeleraSedap\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    }
+]
